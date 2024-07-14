@@ -1,2 +1,2 @@
 # visual-cartpole
-Various DQNs for Cartpole gym environment. 
+Various purely visual DQNs for Cartpole gym environment
